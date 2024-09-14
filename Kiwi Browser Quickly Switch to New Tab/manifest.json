@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Kiwi Browser Quickly Switch to New Tab",
+  "version": "1.0",
+  "permissions": ["tabs", "scripting"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": ""
+  }
+}
