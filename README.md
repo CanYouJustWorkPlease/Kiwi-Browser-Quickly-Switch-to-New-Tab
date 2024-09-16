@@ -16,3 +16,9 @@ Guide on how to use this:
 
 
 https://github.com/user-attachments/assets/d4008b4f-7f9e-4627-94f1-b7baba3368e5
+
+**ISSUES FIXING**:
+
+As a temporary fix, if the button doesn't show up at the bottom of the page, and if you're using Ublock Origin, make sure to open up Ublock Origin and disable `Cosmetic filtering` for the current site, and refresh the page:
+
+![image](https://github.com/user-attachments/assets/6a67a187-5b8e-44e6-b7bc-89043cd9c697)
